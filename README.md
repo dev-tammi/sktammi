@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing web projects
 - 🌱 I’m currently learning ds algo
 - 💞️ I’m looking to collaborate on open source JavaScript projects
-- 📫 Reach me @ dev.tammi@gmai.com
+- 📫 Reach me @ dev.tammi@gmail.com
 
 <!---
 sktammi/sktammi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
