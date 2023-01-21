@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sktammi
+- 👋 Hi, I’m @dev-tammi
 - 👀 I’m interested in developing web projects
 - 🌱 I’m currently learning ds algo
 - 💞️ I’m looking to collaborate on open source JavaScript projects
